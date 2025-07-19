@@ -154,7 +154,7 @@ The app requires camera access for facial detection. Permissions are automatical
 
 ### Getting Started
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 14" src="https://github.com/user-attachments/assets/98d513ce-09d1-473a-b398-72c26e9e0159" />
+<img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 14" src="https://github.com/user-attachments/assets/98d513ce-09d1-473a-b398-72c26e9e0159" />
 
 1. **Launch the App**: Open Driver Alertness Detection
 2. **Grant Permissions**: Allow camera access when prompted
@@ -163,7 +163,7 @@ The app requires camera access for facial detection. Permissions are automatical
 
 ### Main Interface
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 20" src="https://github.com/user-attachments/assets/1c1b7e16-6ac7-414e-83e3-4846e365d5ab" />
+<img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 20" src="https://github.com/user-attachments/assets/1c1b7e16-6ac7-414e-83e3-4846e365d5ab" />
 
 The main screen displays:
 - **Live Camera Feed**: Your face with detection overlays
