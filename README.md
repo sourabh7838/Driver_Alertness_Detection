@@ -12,10 +12,13 @@
 
 <div align="center">
   <img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 14" src="https://github.com/user-attachments/assets/67155f31-0463-4d82-9aed-c0e64bceb327" />
-
-  <img src="screenshots/statistics.png" alt="Statistics Dashboard" width="300">
-  <img src="screenshots/trip-history.png" alt="Trip History" width="300">
-  <img src="screenshots/settings.png" alt="Settings Screen" width="300">
+  <img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 20" src="https://github.com/user-attachments/assets/fa1101b8-9017-46d2-9732-824b481e342d" />
+  <img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 27" src="https://github.com/user-attachments/assets/ab7e50f9-b34c-49c6-bfa5-6cff4bc93c10" />
+  <img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 35" src="https://github.com/user-attachments/assets/2f9694bc-0217-440a-9fed-291b90d5201d" />
+  <img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 38" src="https://github.com/user-attachments/assets/3e3871f7-b2ca-4cd8-88d5-75fc21d2abdc" />
+  <img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 07 06" src="https://github.com/user-attachments/assets/366d7a6d-d49b-4578-9f8a-b20364eaf0ba" />
+<img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 46" src="https://github.com/user-attachments/assets/d8ff8728-8d65-4a56-bdcf-a73e704612d3" />
+<img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 51" src="https://github.com/user-attachments/assets/093926fd-5417-483c-bbd1-02538ef16934" />
 </div>
 
 *Screenshots showing the main detection interface, analytics dashboard, trip history, and settings*
@@ -151,7 +154,7 @@ The app requires camera access for facial detection. Permissions are automatical
 
 ### Getting Started
 
-<img src="screenshots/getting-started.png" alt="Getting Started Flow" width="600">
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 14" src="https://github.com/user-attachments/assets/98d513ce-09d1-473a-b398-72c26e9e0159" />
 
 1. **Launch the App**: Open Driver Alertness Detection
 2. **Grant Permissions**: Allow camera access when prompted
@@ -160,7 +163,7 @@ The app requires camera access for facial detection. Permissions are automatical
 
 ### Main Interface
 
-<img src="screenshots/main-interface-annotated.png" alt="Main Interface" width="600">
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 20" src="https://github.com/user-attachments/assets/1c1b7e16-6ac7-414e-83e3-4846e365d5ab" />
 
 The main screen displays:
 - **Live Camera Feed**: Your face with detection overlays
@@ -178,7 +181,8 @@ The main screen displays:
 
 ### Statistics Dashboard
 
-<img src="screenshots/statistics-annotated.png" alt="Statistics Dashboard" width="600">
+<img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 27" src="https://github.com/user-attachments/assets/cb5268ad-6d5c-4ecf-b988-1075f46c3211" />
+
 
 Track your performance with:
 - **Daily Metrics**: Driving time, warnings, safety score
@@ -191,7 +195,8 @@ Track your performance with:
 
 ### Alert Sensitivity
 
-<img src="screenshots/sensitivity-settings.png" alt="Sensitivity Settings" width="400">
+<img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 46" src="https://github.com/user-attachments/assets/8f07c6ea-cfad-4753-b2d1-d8aa4ed8c449" />
+
 
 Adjust detection sensitivity in **Settings > Alert Settings**:
 - **Low**: Less sensitive, fewer false alerts
@@ -199,8 +204,7 @@ Adjust detection sensitivity in **Settings > Alert Settings**:
 - **High**: Maximum sensitivity, earliest warnings
 
 ### Personal Calibration
-
-<img src="screenshots/calibration-flow.png" alt="Calibration Process" width="600">
+<img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 51" src="https://github.com/user-attachments/assets/85f1c83b-1aab-48a0-a04e-b4772db9ddaa" />
 
 Personalize detection for your unique features:
 
@@ -232,7 +236,8 @@ Every driving session is automatically recorded with:
 
 ### Statistics Overview
 
-<img src="screenshots/analytics-dashboard.png" alt="Analytics Dashboard" width="600">
+<img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 35" src="https://github.com/user-attachments/assets/95b4d98a-fc3e-4daa-acb9-71b3c7980b54" />
+
 
 #### Key Metrics
 - **Total Driving Time**: Cumulative monitoring time
