@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/Driver_Alertness_Detection-master.dia",
+    "emit-module-dependencies" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/Driver_Alertness_Detection-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/Driver_Alertness_Detection-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/Driver_Alertness_Detection-master.swiftdeps"
+  },
+  "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/Driver_Alertness_Detection/AlertnessDetector.swift" : {
+    "const-values" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/AlertnessDetector.swiftconstvalues",
+    "dependencies" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/AlertnessDetector.d",
+    "diagnostics" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/AlertnessDetector.dia",
+    "index-unit-output-path" : "/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/AlertnessDetector.o",
+    "llvm-bc" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/AlertnessDetector.bc",
+    "object" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/AlertnessDetector.o",
+    "swift-dependencies" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/AlertnessDetector.swiftdeps",
+    "swiftmodule" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/AlertnessDetector~partial.swiftmodule"
+  },
+  "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/Driver_Alertness_Detection/CameraPreviewView.swift" : {
+    "const-values" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/CameraPreviewView.swiftconstvalues",
+    "dependencies" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/CameraPreviewView.d",
+    "diagnostics" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/CameraPreviewView.dia",
+    "index-unit-output-path" : "/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/CameraPreviewView.o",
+    "llvm-bc" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/CameraPreviewView.bc",
+    "object" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/CameraPreviewView.o",
+    "swift-dependencies" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/CameraPreviewView.swiftdeps",
+    "swiftmodule" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/CameraPreviewView~partial.swiftmodule"
+  },
+  "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/Driver_Alertness_Detection/ContentView.swift" : {
+    "const-values" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/Driver_Alertness_Detection/Driver_Alertness_DetectionApp.swift" : {
+    "const-values" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/Driver_Alertness_DetectionApp.swiftconstvalues",
+    "dependencies" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/Driver_Alertness_DetectionApp.d",
+    "diagnostics" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/Driver_Alertness_DetectionApp.dia",
+    "index-unit-output-path" : "/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/Driver_Alertness_DetectionApp.o",
+    "llvm-bc" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/Driver_Alertness_DetectionApp.bc",
+    "object" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/Driver_Alertness_DetectionApp.o",
+    "swift-dependencies" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/Driver_Alertness_DetectionApp.swiftdeps",
+    "swiftmodule" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/Driver_Alertness_DetectionApp~partial.swiftmodule"
+  },
+  "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/sourabhchauhan/Documents/GitHub/Driver_Alertness_Detection/build/Driver_Alertness_Detection.build/Debug/Driver_Alertness_Detection.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
