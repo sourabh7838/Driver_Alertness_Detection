@@ -1,7 +1,7 @@
 # Driver Alertness Detection App
 
 <div align="center">
-  <img alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 14" src="https://github.com/user-attachments/assets/5f77fd84-721c-446f-908d-6bd124c876b0" width="250" height="250" />
+  <img alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 14" src="https://github.com/user-attachments/assets/5f77fd84-721c-446f-908d-6bd124c876b0" width="550" height="350" />
   <h3>AI-Powered Driver Safety Monitoring</h3>
   <p>Advanced computer vision technology to detect fatigue and drowsiness in real-time</p>
 </div>
