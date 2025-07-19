@@ -217,14 +217,14 @@ Personalize detection for your unique features:
 ### Privacy Settings
 
 All facial processing is performed locally on your device:
-- ✅ **No data transmitted** to external servers
-- ✅ **No video recording** or storage
-- ✅ **Complete privacy** of biometric data
-- ✅ **Export/delete data** anytime
+- **No data transmitted** to external servers
+- **No video recording** or storage
+- **Complete privacy** of biometric data
+- **Export/delete data** anytime
 
 ---
 
-## 📊 Data & Analytics
+## Data & Analytics
 
 ### Trip Recording
 
@@ -252,7 +252,7 @@ Every driving session is automatically recorded with:
 
 ---
 
-## 🔒 Privacy & Security
+## Privacy & Security
 
 ### Data Protection
 - **Local Processing**: All AI/ML computations on-device
@@ -263,13 +263,13 @@ Every driving session is automatically recorded with:
 ### Permissions
 | Permission | Purpose | Required |
 |------------|---------|----------|
-| Camera | Facial detection and monitoring | ✅ Yes |
-| Photos | Export trip data (optional) | ⚪ Optional |
-| Notifications | Alert delivery | ⚪ Optional |
+| Camera | Facial detection and monitoring | Yes |
+| Photos | Export trip data (optional) | Optional |
+| Notifications | Alert delivery | Optional |
 
 ---
 
-## 🛠️ Technical Specifications
+## Technical Specifications
 
 ### System Requirements
 - **iOS**: 17.0 or later
@@ -295,7 +295,7 @@ Every driving session is automatically recorded with:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to improve driver safety technology!
 
@@ -315,7 +315,7 @@ We welcome contributions to improve driver safety technology!
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -337,7 +337,7 @@ copies or substantial portions of the Software.
 
 ---
 
-## 🆘 Support
+## Support
 
 ### Troubleshooting
 
@@ -353,7 +353,7 @@ copies or substantial portions of the Software.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Apple Vision Framework**: Core facial detection technology
 - **SwiftUI Community**: UI/UX inspiration and best practices
