@@ -12,6 +12,8 @@
 
 <div align="center">
   <img src="screenshots/main-screen.png" alt="Main Detection Screen" width="300">
+  <img width="706" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 14" src="https://github.com/user-attachments/assets/67155f31-0463-4d82-9aed-c0e64bceb327" />
+
   <img src="screenshots/statistics.png" alt="Statistics Dashboard" width="300">
   <img src="screenshots/trip-history.png" alt="Trip History" width="300">
   <img src="screenshots/settings.png" alt="Settings Screen" width="300">
