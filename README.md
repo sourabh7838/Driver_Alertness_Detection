@@ -8,52 +8,35 @@
 
 ---
 
-## 📱 Screenshots
+## Features
 
-<div align="center">
-  <img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 14" src="https://github.com/user-attachments/assets/67155f31-0463-4d82-9aed-c0e64bceb327" />
-  <img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 20" src="https://github.com/user-attachments/assets/fa1101b8-9017-46d2-9732-824b481e342d" />
-  <img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 27" src="https://github.com/user-attachments/assets/ab7e50f9-b34c-49c6-bfa5-6cff4bc93c10" />
-  <img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 35" src="https://github.com/user-attachments/assets/2f9694bc-0217-440a-9fed-291b90d5201d" />
-  <img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 38" src="https://github.com/user-attachments/assets/3e3871f7-b2ca-4cd8-88d5-75fc21d2abdc" />
-  <img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 07 06" src="https://github.com/user-attachments/assets/366d7a6d-d49b-4578-9f8a-b20364eaf0ba" />
-<img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 46" src="https://github.com/user-attachments/assets/d8ff8728-8d65-4a56-bdcf-a73e704612d3" />
-<img width="446" height="750" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 51" src="https://github.com/user-attachments/assets/093926fd-5417-483c-bbd1-02538ef16934" />
-</div>
-
-*Screenshots showing the main detection interface, analytics dashboard, trip history, and settings*
-
----
-
-## 🎯 Features
-
-### 🔍 Real-Time Monitoring
+### Real-Time Monitoring
 - **Face Detection**: Advanced facial recognition using Apple's Vision framework
 - **Eye Tracking**: Monitors blink rate and eye closure duration
 - **Yawn Detection**: Identifies mouth movements indicating drowsiness
 - **Head Position Analysis**: Tracks head movement and positioning
 
-### 🚨 Smart Alert System
+### Smart Alert System
 - **Multi-Level Alerts**: Normal → Warning → Danger progression
 - **Customizable Sensitivity**: Adjust detection thresholds to your preference
 - **Haptic Feedback**: Physical alerts for critical situations
 - **Audio Alerts**: Optional sound notifications
 - **Visual Indicators**: Clear on-screen status displays
 
-### 📊 Analytics & Insights
+### Analytics & Insights
 - **Trip Recording**: Automatic logging of driving sessions
 - **Safety Scores**: Comprehensive scoring based on multiple factors
 - **Fatigue Trends**: Historical analysis of alertness patterns
 - **Detailed Metrics**: Blink counts, yawn frequency, reaction times
 - **Performance Tracking**: Monitor improvement over time
 
-### 🆘 Emergency Features
+### Emergency Features
 - **SOS Button**: One-tap emergency alert system
 - **Emergency Contacts**: Notify designated contacts in critical situations
 - **Location Sharing**: Share current location during emergencies
 - **Automatic Alerts**: System can trigger alerts for prolonged dangerous states
 
-### ⚙️ Customization
+### Customization
 - **Alert Sensitivity**: Fine-tune detection parameters
 - **Personal Calibration**: Customize for individual facial features
 - **Privacy Controls**: All processing done locally on device
@@ -62,7 +45,7 @@
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ### Core Components
 
@@ -111,7 +94,7 @@ private func calculateMouthOpenness(mouthPoints: [CGPoint]) -> Float {
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - **Xcode 15.0+**
@@ -150,7 +133,7 @@ The app requires camera access for facial detection. Permissions are automatical
 
 ---
 
-## 🎮 Usage Guide
+## Usage Guide
 
 ### Getting Started
 
@@ -370,7 +353,7 @@ copies or substantial portions of the Software.
   </a>
 </div>
 
-**Version 1.0** - Available soon on the App Store
+**Version 1.0** - Available on the App Store
 
 ---
 
