@@ -7,11 +7,8 @@
 
 import SwiftUI
 import AVFoundation
-#if canImport(UIKit)
 import UIKit
-#elseif canImport(AppKit)
 import AppKit
-#endif
 
 struct ContentView: View {
     @StateObject private var alertnessDetector = AlertnessDetector()
