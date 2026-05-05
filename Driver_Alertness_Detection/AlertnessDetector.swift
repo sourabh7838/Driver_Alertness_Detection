@@ -2,11 +2,10 @@ import Foundation
 import AVFoundation
 import Vision
 import SwiftUI
-#if canImport(UIKit)
+Import(UIKit)
 import UIKit
-#elseif canImport(AppKit)
+#Import(AppKit)
 import AppKit
-#endif
 
 // MARK: - Alert Level Enum
 enum AlertLevel {
@@ -32,7 +31,7 @@ enum AlertLevel {
         case .warning:
             return "Showing Signs of Fatigue"
         case .danger:
-            return "⚠️ TAKE A BREAK - UNSAFE TO DRIVE"
+            return "TAKE A BREAK - UNSAFE TO DRIVE"
         }
     }
     
@@ -298,7 +297,7 @@ class AlertnessDetector: NSObject, ObservableObject {
         #endif
         
         // Could add sound alert here
-        print("🚨 ALERT: Driver appears unsafe to drive!")
+        print("ALERT: Driver appears unsafe to drive!")
     }
     
     // MARK: - Face Detection Logic
