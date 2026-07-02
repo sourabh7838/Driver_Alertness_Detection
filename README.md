@@ -1,4 +1,4 @@
-# Driver Alertness Detection App
+# AI Driver Alertness Detection App
 
 <div align="center">
   <img alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 01 06 14" src="https://github.com/user-attachments/assets/5f77fd84-721c-446f-908d-6bd124c876b0" width="450" height="750" />
